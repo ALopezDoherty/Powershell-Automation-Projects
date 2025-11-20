@@ -37,7 +37,7 @@ testuser2,Test User Two,Testing Account,Passw0rd!
 - Interactive username prompt if no parameter provided
 - Displays comprehensive user account information
 - Shows account status (Active/Disabled)
-- Handles non-existent users gracefully
+- Handles non-existent users
 
 **Usage**:
 
@@ -151,4 +151,4 @@ testuser2,Test User Two,Testing Account,Passw0rd!
 
 ---
 
-_Note: These scripts are designed for local user management and should be used in appropriate testing or administrative environments._
+
